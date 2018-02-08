@@ -1,0 +1,20 @@
+PODS:
+  - Realm (3.1.1):
+    - Realm/Headers (= 3.1.1)
+  - Realm/Headers (3.1.1)
+  - RealmSwift (3.1.1):
+    - Realm (= 3.1.1)
+  - ScrollableGraphView (4.0.4)
+
+DEPENDENCIES:
+  - RealmSwift
+  - ScrollableGraphView (~> 4.0)
+
+SPEC CHECKSUMS:
+  Realm: 42d1c38a5b1bbcc828b48a7ce702cb86fc68adf4
+  RealmSwift: d31937ca6a6ee54acde64ec839523c0a3c04924b
+  ScrollableGraphView: 072ea302f4ca27779692656a49d51fe537b2b1e7
+
+PODFILE CHECKSUM: d4ad509368a658d42f2d12d07d25ae9227210fcb
+
+COCOAPODS: 1.4.0
